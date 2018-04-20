@@ -19,6 +19,9 @@
 <body>
 <div class="weui-tab">
 
+    <div>
+        h
+    </div>
     <div class="weui-tabbar">
         <a href="javascript:;" class="weui-tabbar__item weui-bar__item--on">
             <span class="weui-badge" style="position: absolute;top: -.4em;right: 1em;">8</span>
